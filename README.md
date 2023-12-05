@@ -12,8 +12,4 @@ NOTES:
 VERSION CONTROL:
 ================
 
-12/04/2023
-First upload of KOGNOG LFS to my Github account
-not sure of what I am doing so far, but here it goes
-This version only runs Main Menu, READ ME, Preface, and Introduction
-All sections a text extracted from the LFS Book so far, plus some of mine
+1) 12/04/2023: First upload of KOGNOG LFS to my Github account. not sure of what I am doing so far, but here it goes. This version only runs Main Menu, READ ME, Preface, and Introduction. All sections a text extracted from the LFS Book so far, plus some of mine.
